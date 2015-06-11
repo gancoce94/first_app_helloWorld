@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: desarrolloRoR
+  username: postgres
+  password: 123x
+
+test:
+  adapter: postgresql
+  encoding: utf8
+  database: testeoRoR
+  username: postgres
+  password: 123x
